@@ -62,3 +62,7 @@ if __name__ == "__main__":
     ]
 
     print(hillClimbing(tsp))
+    
+    
+    
+# Output:- ([0, 3, 2, 1], 1400)
