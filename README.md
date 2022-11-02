@@ -29,7 +29,7 @@ Code implementation of various AI search algorithms.
       <tr>
       <th scope="row">4</th>
       <td>Optimization Problem</td>
-      <td><a href="url">GA</a></td>
+      <td><a href="[Optimization Problems](https://github.com/janup9967/AI_algoritms/blob/main/Optimization%20Problems/ga.py)">GA</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
