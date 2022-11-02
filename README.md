@@ -19,7 +19,7 @@ Code implementation of various AI search algorithms.
     <tr>
       <th scope="row">2</th>
       <td>Uninformed Search</td>
-       <td><a href="[url](https://github.com/janup9967/AI_algoritms/blob/main/Informed_Search/A_star.py)">A_start</a>   , <a href="[url](https://github.com/janup9967/AI_algoritms/blob/main/Informed_Search/best_first_search.py)">GBFS</a></td>
+       <td><a href="https://github.com/janup9967/AI_algoritms/blob/main/Informed_Search/A_star.py">A_start</a>   , <a href="https://github.com/janup9967/AI_algoritms/blob/main/Informed_Search/best_first_search.py">GBFS</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
