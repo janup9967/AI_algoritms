@@ -46,3 +46,36 @@ if (dls):
     print("\nPath :- ",path)
 else:
     print("\nNo path available for the goal node in the given depth")
+    
+    
+''' Output :-
+Enter the goal node :- E 
+Enter the maximum depth limited :- 3
+
+Current Level :-  0
+Testing for Goal Node :-  A
+Expanding the Current Node :-  A
+
+Current Level :-  1
+Testing for Goal Node :-  B
+Expanding the Current Node :-  B
+
+Current Level :-  2
+Testing for Goal Node :-  D
+Expanding the Current Node :-  D
+
+Current Level :-  3
+Testing for Goal Node :-  H
+
+Current Level :-  3
+Testing for Goal Node :-  I
+
+Current Level :-  2
+Testing for Goal Node :-  E
+
+Goal Node successfully found 
+
+Path to goal node available
+
+Path :-  ['A', 'B', 'E']
+'''
