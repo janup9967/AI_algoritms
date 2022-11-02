@@ -57,3 +57,18 @@ d = int(input("Enter the depth value :- "))
 node = int(input("Enter the nodes :-  "))
 
 print("The optimal value is :", alpha_beta_pruning(d, node, True, score, alpha, beta))
+
+''' Output:
+    Enter total number of leaf node :- 8
+Enter the node value :- 3
+Enter the node value :- 5
+Enter the node value :- 6
+Enter the node value :- 9
+Enter the node value :- 1
+Enter the node value :- 2
+Enter the node value :- 0
+Enter the node value :- -1
+Enter the depth value :- 0
+Enter the nodes :-  0
+The optimal value is : 5
+'''
