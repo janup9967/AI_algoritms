@@ -44,3 +44,29 @@ if not iterativeDFS(inital,goal,graph,maxDepth):
 else:
     print("\nPath to goal node available in the given depth ")
     print(path.pop())
+    
+    
+    
+'''Output:- 
+Enter the goal node :- E
+Enter the maximum depth limited :- 4
+
+Current Level :-  0
+Checking for goal A
+
+Current Level :-  1
+Checking for goal A
+Checking for goal B
+Checking for goal C
+
+Current Level :-  2
+Checking for goal A
+Checking for goal B
+Checking for goal D
+Checking for goal E
+
+Goal Node successfully found 
+
+Path to goal node available in the given depth 
+['A', 'B', 'E']
+'''
